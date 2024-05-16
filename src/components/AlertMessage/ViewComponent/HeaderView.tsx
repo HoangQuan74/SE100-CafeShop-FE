@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import ProfileButton from '../ProfileButton/ProfileButton';
+import ProfileButton from '../../Admin/ProfileButton/ProfileButton';
 import { useAuth } from '../../../provider/AuthProvider';
 
 export interface HeaderProps {
