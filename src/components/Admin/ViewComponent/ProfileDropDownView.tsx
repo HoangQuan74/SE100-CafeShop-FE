@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ProfileDropdown from '../../Admin/ProfileDropdown/ProfileDropdown';
+import ProfileDropdown from '../ProfileDropdown/ProfileDropdown';
 
 interface ProfileButtonProps {
     username: string;
